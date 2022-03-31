@@ -1,0 +1,174 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    padding: 0%; margin: 0%;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+#footer {
+border: 1px solid;
+background-color: #1c1c22;
+color: white;
+font-size: 2em;
+}
+
+.subscribe {
+    height: 95px;
+    padding-top: 65px;
+    font-size: 0.7em;
+}
+
+.subscribe-form {
+    float: right;
+    text-align: right;
+    padding-right: 65px; 
+    width: 40%;
+}
+
+input[type=text] {
+    width: 60%;
+    font-size: 0.9em;
+    padding: 15px 32px;
+    box-sizing: border-box;
+    color: black;
+    border-radius: 10px;
+    margin-right: -20px;
+    
+}
+
+.subscribe-button {
+background-color: #776ee6;
+color: white;
+text-align: center;
+font-size: 1em;
+padding: 15px 32px;
+cursor: pointer;
+border:none;
+border-radius: 10px;
+}
+
+.subscribe-newslatter {
+    float: left;
+    margin-left: 40px;
+    width: 40%;
+}
+.subscribe-newslatter h3{
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+
+#columns {
+    height: 570px;
+}
+
+#columns h4{
+    font-size: 1em;
+    margin-bottom: -10px;
+}    
+
+hr{
+   color: grey;
+} 
+
+#columns img{
+    margin-left: 15px;
+} 
+
+#columns a {
+    text-decoration: none;
+    color: white;
+    font-size: 0.6em;
+    line-height: 45px;
+}
+
+
+.column1 {
+    float: left;
+    width: 29%;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 40px;
+    
+}
+
+.column1-text {
+    font-size: 0.6em;
+}
+
+
+.column2 {
+    float: left;
+    width: 19%;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+.column3 {
+    float: left;
+    width: 19%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.column4 {
+    float: left;
+    width: 21%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.column4-text {
+    font-size: 0.6em;
+    line-height: 31px;
+    
+}
+
+.column4-text1 {
+    font-size: 0.8em;
+    margin-left: 22px;
+       
+}
+
+.column4-text2 a {
+    
+    font-size: 1em !important;
+    text-decoration: none;
+    margin-left: 22px;
+       
+}
+
+.fa-phone, .fa-envelope-o, .fa-map-marker {
+    
+}
+
+
+.copyright {
+    background-color: #212128;
+    height: 80px;
+    padding-top: 60px;
+    font-size: 0.6em;
+    
+}
+
+
+.copyright-left {
+    float: left;
+    width: 40%;
+    margin-left: 40px;
+}
+
+.copyright-right {
+    float: right;
+    text-align: right;
+    margin-right: 40px;
+    width: 40%;
+}
+
+.copyright-right a {
+    text-decoration: none;
+    color: white;
+}
